@@ -2,9 +2,9 @@
 ####################### Makefile Template ##############################
 ########################################################################
 # Student settings
-NAME = YOURNAME
-SID = YOURSID
-EMAIL = YOURUTAEMAIL
+NAME = Dylan Campbell
+SID = 1002021550
+EMAIL = dcc1550@mavs.uta.edu
 SEMESTER = SPRING2025
 PROJECT=PROJ03
  
