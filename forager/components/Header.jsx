@@ -8,7 +8,7 @@ export default function HeaderBar() {
             <h1>Welcome, Chantelle</h1>
         </div>
         <div className={styles.headerProfilePic}>
-            <h1>(Pic here)</h1>
+          <img src="images/NameIcon.png" alt="Profile Picture" className={styles.profilePic} />
         </div>
     </div>
   );

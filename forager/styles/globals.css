@@ -6,6 +6,35 @@ body, html{
 }
 
 .default{
-  margin-top: 30px;
-  color: blue
+  margin-top: 80px;
+  background-color: white;
+  min-height: 100vh;
+  color: black
+}
+
+.mushroomContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  padding: 20px;
+}
+
+.mushroomBoxes {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-decoration: none;
+  color: black;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  width: 150px;
+}
+
+.mushroomBoxes img {
+  width: 100px; /* Adjust image size */
+  height: 100px;
+  object-fit: cover; /* Ensure image fills space */
+  border-radius: 8px; /* Rounded corners */
 }
