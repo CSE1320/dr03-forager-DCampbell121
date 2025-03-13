@@ -6,7 +6,7 @@ body, html{
 }
 
 .default{
-  margin-top: 80px;
+  padding-top: 60px;
   background-color: white;
   min-height: 100vh;
   color: black
@@ -33,8 +33,8 @@ body, html{
 }
 
 .mushroomBoxes img {
-  width: 100px; /* Adjust image size */
+  width: 100px;
   height: 100px;
-  object-fit: cover; /* Ensure image fills space */
-  border-radius: 8px; /* Rounded corners */
+  object-fit: cover;
+  border-radius: 8px;
 }
